@@ -1,4 +1,6 @@
 # grpc-xray
+![](https://img.shields.io/travis/xcorpion/grpc-xray.svg)
+
 [Amazon X-Ray](https://aws.amazon.com/xray/) helpers for monitoring gRPC services
 
 ![](https://xunnanxu.github.io/2018/11/25/Monitor-gRPC-Microservices-in-Kubernetes-with-Amazon-X-Ray/xray.png)
