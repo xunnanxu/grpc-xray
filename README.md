@@ -1,5 +1,5 @@
 # grpc-xray
-![](https://img.shields.io/travis/xcorpion/grpc-xray.svg)
+![Build Status](https://img.shields.io/travis/xunnanxu/grpc-xray.svg)
 
 [Amazon X-Ray](https://aws.amazon.com/xray/) helpers for monitoring gRPC services
 
