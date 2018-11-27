@@ -7,4 +7,4 @@ cache:
 
 script:
   - mvn clean compile
-  - chmod +x scripts/deploy.sh && scripts/deploy.sh 2>&1
+  - scripts/deploy.sh 2>&1
