@@ -1,5 +1,6 @@
 # grpc-xray
 [![Build Status](https://travis-ci.org/xunnanxu/grpc-xray.svg?branch=master)](https://travis-ci.org/xunnanxu/grpc-xray)
+[![Sonatype](https://img.shields.io/nexus/r/https/oss.sonatype.org/org.xcorpion/grpc-xray.svg)](https://oss.sonatype.org/content/repositories/releases/org/xcorpion/grpc-xray/)
 
 [Amazon X-Ray](https://aws.amazon.com/xray/) helpers for monitoring gRPC services
 
